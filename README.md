@@ -20,9 +20,9 @@ the challenge is to build out this recipe page and get it looking as close to th
 
 ### Links
 
-- Live Site URL: [Github Pages](#)
+- Live Site URL: [Github Pages](https://haese-hks.github.io/recipe-page/)
 
-- Solution URL: [Frontend Mentor](#)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/resipe-page-solution-x3J8Nf0aFP)
 
 ### Built With
 
