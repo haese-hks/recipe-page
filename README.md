@@ -4,6 +4,18 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Table of contents
 
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
 ### Overview
 
 This is a recipe page built with HTML, CSS, and responsive design principles. The project features a clean and user-friendly layout, optimized for both mobile and desktop screens. It includes sections for ingredients, steps, and a table of nutritional information. The design is minimalistic with a focus on readability and visual appeal.
@@ -23,6 +35,8 @@ the challenge is to build out this recipe page and get it looking as close to th
 - Live Site URL: [Github Pages](https://haese-hks.github.io/recipe-page/)
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/resipe-page-solution-x3J8Nf0aFP)
+
+## My Process
 
 ### Built With
 
@@ -46,19 +60,19 @@ the challenge is to build out this recipe page and get it looking as close to th
 
 ### Useful Resources
 
-- [freeCodeCamp](https://www.freecodecamp.org/): The platform I used to learn HTML, CSS, and JavaScript in depth, including lessons on forms, layouts, and responsiveness.
+- [freeCodeCamp](https://www.freecodecamp.org/)
 
-- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): My main resource for learning about CSS properties and techniques, especially Flexbox and Media Queries.
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- [W3Schools - CSS](https://www.w3schools.com/css/): A handy reference for quick examples and documentation on CSS usage.
+- [W3Schools - CSS](https://www.w3schools.com/css/)
 
-- [Frontend Mentor - Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ryaPa2l8M): The main challenge page that provided the design and requirements for this project.
+- [Frontend Mentor - Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ryaPa2l8M)
 
-- [Google Fonts](https://fonts.google.com/): I used Google Fonts to find and implement the `Figtree` font for this project.
+- [Google Fonts](https://fonts.google.com/)
 
-- [CSS-Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/): A great resource for understanding how to use the `transform` property, including `scale()` for the hover effect.
+- [CSS-Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/)
 
-- [GitHub Pages Documentation](https://docs.github.com/en/pages): The guide I used to deploy this project on GitHub Pages and make it publicly accessible online.
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 ### Author
 
